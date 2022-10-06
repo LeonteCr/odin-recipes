@@ -1,0 +1,38 @@
+body{
+    background-image: url(falafel-back.jpg); background-size: 1850px 980px;
+}
+.container {
+    text-align: center;
+    color: white;
+    margin-left: 50rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ul {
+    list-style-type: none;
+   margin-left: 0.8rem;
+   text-align: left;
+   font-size: 20px;
+    
+}
+h1 {
+    font-size: 56px;
+    color: goldenrod;
+}
+
+.descriere {
+    font-size: 20px;
+}
+.titlu2 {
+    font-size: 30px;
+}
+.ing,
+.steps {
+    font-size: 38px;
+   margin-right: 750px;
+}
+ol {
+    text-align: left;
+    margin-left: 2rem;
+    font-size: 20px;
+
+}

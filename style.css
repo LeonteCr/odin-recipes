@@ -1,0 +1,22 @@
+body {
+    background-image: url(fundal3.jpg); background-size: 1850px 980px; 
+    
+    
+}
+.titlu {
+    text-align: center;
+    font-size: 56px;
+    color: red; opacity: 80%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul {
+    list-style: none;
+    font-size: 40px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tfalafel {
+    text-align: center;
+}
+
+
