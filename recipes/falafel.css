@@ -29,11 +29,14 @@ h1 {
 .ing,
 .steps {
     font-size: 38px;
-   margin-right: 750px;
+   margin-right: 700px;
 }
 ol {
     text-align: left;
     margin-left: 2rem;
     font-size: 20px;
 
+}
+.ing {
+    margin-left: 3rem;
 }
