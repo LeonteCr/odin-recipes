@@ -6,6 +6,7 @@ body{
     color: white;
     margin-left: 50rem;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    float: left;
 }
 ul {
     list-style-type: none;
